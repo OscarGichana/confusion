@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "conFusion"
+  "defaultProject": "conFusion",
+  "cli": {
+    "analytics": "fd6159e2-7ba6-48c3-8caf-6deafc06804f"
+  }
 }
